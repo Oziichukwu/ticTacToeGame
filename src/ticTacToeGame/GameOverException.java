@@ -1,2 +1,5 @@
-package ticTacToeGame;public class GameOverException {
+package ticTacToeGame;
+
+public class GameOverException extends Exception {
+
 }
